@@ -1,0 +1,7 @@
+1) [[Fundamentals]]
+2) [[Low Level Languages]]
+3) [[High Level Languages]]
+4) [[Database]]
+5) [[Version Control]]
+7) [[Basic Web Design]]
+9) [[Docker]]
