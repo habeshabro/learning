@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "4c4aaba3e1e64ff0",
+    "type": "split",
+    "children": [
+      {
+        "id": "df8fc864dff24c17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9408ad84783509dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Low Level Programming/Low Level Languages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Low Level Languages"
+            }
+          },
+          {
+            "id": "a8d72c8bd33d9d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Low Level Programming/Rust/Rust Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust Basics"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54ed89cffd4fc092",
+    "type": "split",
+    "children": [
+      {
+        "id": "08f48e67019f63f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2607b9767a5a7efd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "69976f3b538dfc51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rust",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bda405723f556e95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e291364be295716",
+    "type": "split",
+    "children": [
+      {
+        "id": "edc272f4647a6fae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d2782be15112c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JS/Jest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Jest"
+            }
+          },
+          {
+            "id": "56ecfdaa2cd17143",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JS/Jest.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Jest"
+            }
+          },
+          {
+            "id": "60811ae49d0992bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a5e8c3f917663743",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JS/Jest.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Jest"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2607b9767a5a7efd",
+  "lastOpenFiles": [
+    "Low Level Programming/Low Level Languages.md",
+    "Study Plans/Rust.md",
+    "Low Level Programming/Rust/Rust True Beginning.md",
+    "Low Level Programming/Rust/Rust Variables.md",
+    "Low Level Programming/Rust/Rust Basics.md",
+    "Low Level Programming/Rust/Dioxus.md",
+    "2025-12-17.md",
+    "Maths/Basics of Linear Algebra.md",
+    "Project Managment/n8n.md",
+    "Maths/latex.md",
+    "Low Level Programming/Rust",
+    "JS/JS Basics.md",
+    "Study Plans/React Notes.md",
+    "Study Plans/Linear Algebra.md",
+    "MD Language.md",
+    "images/Screenshot 2025-11-25 100418.png",
+    "images",
+    "Matrix.md",
+    "Untitled.md",
+    "Maths",
+    "Study Plans/ThreeJS + OpenGL.md",
+    "HTML Content.md",
+    "Fundamentals of Web Design/JS Basics.md",
+    "JS/Index.md",
+    "Study Plans/Networks.md",
+    "Study Plans",
+    "Fundamentals of Systems Thinking.md",
+    "Systems Thinking.md",
+    "ZIG.md",
+    "Version Control/GIT commands.md",
+    "Retrieval Augmented Generation.md",
+    "Untitled.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Low Level Programming/C++",
+    "Machine Learning",
+    "Project Managment",
+    "Excalidraw/Untitled.canvas"
+  ]
+}
